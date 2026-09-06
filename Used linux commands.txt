@@ -1,0 +1,10 @@
+Linux commands used for the project
+  |-- #sudo yum update -y
+  |-- #sudo yum install httpd -y
+  |-- #sudo systemctl start httpd
+  |-- #sudo systemctl enable httpd
+  |-- #sudo systemctl status httpd
+  |-- #sudo dnf update -y
+  |-- #sudo dnf install httpd -y
+  |-- #sudo systemctl enable --now httpd
+  |-- #sudo systemctl status httpd
